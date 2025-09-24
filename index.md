@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: A blog bringing art entertainment pieces as well as advice on how to improve as an artist
 ---
-descrition: A blog bringing art entertainment pieces as well as advice on how to improve as an artist
+
